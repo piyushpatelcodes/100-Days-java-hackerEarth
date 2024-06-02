@@ -1,5 +1,6 @@
 import java.util.Scanner;
 // best approach . time = O(n), space = O(n)
+// Time (sec) = 8.52165   ,   Memory (KiB) = 161800
 
 public class TestClass {
     public static void main(String[] args) {
